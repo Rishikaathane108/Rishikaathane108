@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishikaathane108@gmail.com**
 
-- 📄 Know about my experiences :  <a href="https://drive.google.com/file/d/1lGQhbxj1OIBa95WLYoxnojyoKWXI97Hs/view?usp=drive_link" target="blank"> <img src="https://cdn0.iconfinder.com/data/icons/human-networking-glyph/64/user-process-system-control-configuration-online-link-512.png" alt="resume" width="25" height="25" align="center"/></a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1lGQhbxj1OIBa95WLYoxnojyoKWXI97Hs/view?usp=drive_link" target="blank"> <img src="https://cdn0.iconfinder.com/data/icons/human-networking-glyph/64/user-process-system-control-configuration-online-link-512.png" alt="resume" width="25" height="25" align="center"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
