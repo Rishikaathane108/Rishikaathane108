@@ -1,4 +1,4 @@
-![MasterHead](./github_banner.png)
+![MasterHead](./github-banner.png)
 <!-- <h1 align="center">Hi 👋, I'm Rishika Athane</h1> -->
  <!-- <h1 align="center">A passionate coder and developer from India</h1> <br> -->
 <p align="center">
