@@ -1,6 +1,14 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-<h1 align="center">Hi 👋, I'm Rishika Athane</h1>
-<h3 align="center">A passionate coder and developer from India</h3>
+![MasterHead](./github_banner.png)
+<!-- <h1 align="center">Hi 👋, I'm Rishika Athane</h1> -->
+ <!-- <h1 align="center">A passionate coder and developer from India</h1> <br> -->
+<p align="center">
+  <h1 align="center">
+    <a href="[https://github.com/Rishikaathane108/readme-typing-svg](https://git.io/typing-svg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5AFFB7&width=700&center=true&vCenter=true&width=650&lines=A+Passionate+Coder+and+Developer;Software+Engineer+%F0%9F%92%BB;+An+Enthusiastic+Learner+%F0%9F%9A%80" alt="Rishika" /></a>
+  </h1>
+</p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikaathane108&label=Profile%20views&color=0e75b6&style=flat" alt="rishikaathane108" /> </p>
