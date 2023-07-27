@@ -3,7 +3,7 @@
  <!-- <h1 align="center">A passionate coder and developer from India</h1> <br> -->
 <p align="center">
   <h1 align="center">
-    <a href="[https://github.com/Rishikaathane108/readme-typing-svg](https://git.io/typing-svg)">
+    <a href="https://github.com/Rishikaathane108">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5AFFB7&width=700&center=true&vCenter=true&width=650&lines=A+Passionate+Coder+and+Developer;Software+Engineer+%F0%9F%92%BB;+An+Enthusiastic+Learner+%F0%9F%9A%80" alt="Rishika" /></a>
   </h1>
 </p>
