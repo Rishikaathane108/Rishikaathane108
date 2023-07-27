@@ -8,12 +8,21 @@
   </h1>
 </p>
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/rishika0802/" target="blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://rishikaathane@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/rishikaathane108%40gmail.com-D14836?&style=flat-square&logo=gmail&logoColor=white" />       
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/AthaneRishika?t=quksFELtr7oZV5Ja6GP4nQ&s=08" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-FFFFFF?&style=flat-square&logo=twitter&logoColor=blue" />       
+  </a>&nbsp;&nbsp;  
+</p>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikaathane108&label=Profile%20views&color=0e75b6&style=flat" alt="rishikaathane108" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Spotify Web Clone**
 
