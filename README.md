@@ -8,7 +8,7 @@
   </h1>
 </p>
 
-<p align='center'>
+<div align='center'>
   
   <a href="https://www.linkedin.com/in/rishika0802/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
@@ -18,8 +18,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/AthaneRishika?t=quksFELtr7oZV5Ja6GP4nQ&s=08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FFFFFF?&style=flat-square&logo=twitter&logoColor=blue" />       
-  </a>&nbsp;&nbsp;  
-</p>
+  </a>&nbsp;&nbsp;
+  
+</div>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
