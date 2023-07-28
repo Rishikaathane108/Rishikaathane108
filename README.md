@@ -54,7 +54,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<div align="center" align-items="center">
  <br>
   <img align="left" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikaathane108&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&color=F8D866&line=F85D7F&point=FFFFF" alt="rishikaathane108" /><img align="right" height=180 src="https://github-readme-stats.vercel.app/api?username=rishikaathane108&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" alt="rishikaathane108" />
 <br> <br>
