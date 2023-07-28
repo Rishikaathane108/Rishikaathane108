@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/rishika0802/" target="blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://rishikaathane@gmail.com" target="blank">
+  <a href="https://rishikaathane@gmail.com/#inbox?compose=new" target="blank">
     <img src="https://img.shields.io/badge/rishikaathane108%40gmail.com-D14836?&style=flat-square&logo=gmail&logoColor=white" />       
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/AthaneRishika?t=quksFELtr7oZV5Ja6GP4nQ&s=08" target="blank">
