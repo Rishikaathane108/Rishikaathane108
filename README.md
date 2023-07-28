@@ -56,7 +56,7 @@
 
 <div align="center">
  <br>
-  <img align="left" height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikaathane108&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&color=F8D866&line=F85D7F&point=FFFFF" alt="rishikaathane108" />&nbsp;&nbsp;<img align="right" height=190 src="https://github-readme-stats.vercel.app/api?username=rishikaathane108&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" alt="rishikaathane108" />
+  <img align="left" height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikaathane108&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&color=F8D866&line=F85D7F&point=FFFFF" alt="rishikaathane108" />&nbsp;<img align="right" height=190 src="https://github-readme-stats.vercel.app/api?username=rishikaathane108&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" alt="rishikaathane108" />
 <br> <br>
  <img src="https://streak-stats.demolab.com?user=Rishikaathane108&theme=dark&background=0d1117" alt="rishikaathane108" />   
 </div>
