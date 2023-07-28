@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rishika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikaathane108&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
-</p>
+</p> remove count_private=true
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaathane108&layout=compact&theme=dark&bg_color=0d1117&color=00ffd9)
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikaathane108&" alt="rishikaathane108" /></p>  -->
