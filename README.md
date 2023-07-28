@@ -10,7 +10,7 @@
 
 <div align='center'>
   
-  <a href="https://www.linkedin.com/in/rishika0802/" target="_blank">
+  <a href="https://www.linkedin.com/in/rishika0802/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://rishikaathane@gmail.com/#inbox?compose=new" target="_blank">
