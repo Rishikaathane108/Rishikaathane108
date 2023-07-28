@@ -10,13 +10,13 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/rishika0802/" target="blank">
+  <a href="https://www.linkedin.com/in/rishika0802/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://rishikaathane@gmail.com/#inbox?compose=new" target="blank">
+  <a href="https://rishikaathane@gmail.com/#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/badge/rishikaathane108%40gmail.com-D14836?&style=flat-square&logo=gmail&logoColor=white" />       
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/AthaneRishika?t=quksFELtr7oZV5Ja6GP4nQ&s=08" target="blank">
+  <a href="https://twitter.com/AthaneRishika?t=quksFELtr7oZV5Ja6GP4nQ&s=08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FFFFFF?&style=flat-square&logo=twitter&logoColor=blue" />       
   </a>&nbsp;&nbsp;  
 </p>
@@ -32,13 +32,13 @@
 
 - 📫 How to reach me **rishikaathane108@gmail.com**
 
-- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1lGQhbxj1OIBa95WLYoxnojyoKWXI97Hs/view?usp=drive_link" target="blank">🔗</a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1lGQhbxj1OIBa95WLYoxnojyoKWXI97Hs/view?usp=drive_link" target="_blank">🔗</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishika0802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika0802" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishikaathane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishikaathane" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishikaatwt0j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishikaatwt0j" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishika0802" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika0802" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rishikaathane" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishikaathane" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishikaatwt0j" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishikaatwt0j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
