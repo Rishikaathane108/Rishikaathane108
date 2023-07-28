@@ -56,11 +56,24 @@
 
  <br>
  
-<p align="center"> <img align="center" src="https://streak-stats.demolab.com?user=Rishikaathane108&theme=dark&background=0d1117" alt="rishikaathane108" /> </p>
+<summary><h2>📊 Github Stats and Activity</h2></summary>
 
-<p align="center">
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rishika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikaathane108&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
-</p>
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/Rishikaathane108 -->
+  <p>
+    <a href="https://github.com/Rishikaathane108?tab=repositories">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rishikaathane108's streak" src="https://streak-stats.demolab.com/?user=Rishikaathane108&theme=dark&background=0d1117"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/Rishikaathane108 -->
+
+  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Rishikaathane108&show_icons=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" height="192px"/></a>
+  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikaathane108&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaathane108&layout=compact&theme=dark&bg_color=0d1117&color=00ffd9)
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikaathane108&" alt="rishikaathane108" /></p>  -->
