@@ -71,8 +71,8 @@
 
   <!-- https://github.com/Rishikaathane108 -->
 
-  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Rishikaathane108&show_icons=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" height="192px"/></a>
-  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikaathane108&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Rishikaathane108&show_icons=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00" height="180px"/></a>
+  <a href="https://github.com/Rishikaathane108?tab=repositories"><img alt="Rishikaathane108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikaathane108&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/></a>
   <br/>
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaathane108&layout=compact&theme=dark&bg_color=0d1117&color=00ffd9)
