@@ -56,7 +56,7 @@
 
  <br>
  
-<summary><h2> 📊 Github Stats and Activity</h2></summary>
+<h2>Github Stats and Activity 📊 :</h2>
 
   <h3>🔥 Streak Stats</h3>
 
