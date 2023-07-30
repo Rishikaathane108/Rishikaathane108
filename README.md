@@ -61,7 +61,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/Rishikaathane108 -->
-  <p>
+  <p align="center">
     <a href="https://github.com/Rishikaathane108?tab=repositories">
       <img title="🔥 Streak stats " alt="Rishikaathane108's streak" src="https://streak-stats.demolab.com/?user=Rishikaathane108&theme=dark&background=0d1117"/>
     </a>
