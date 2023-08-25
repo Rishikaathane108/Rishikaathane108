@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **rishikaathane108@gmail.com**
 
-- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1uXRbxaaksmA6W8Jptu9XytX2vzZYYvVz/view?usp=sharing" target="_blank">🔗</a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1D5hsBtCrpjTainkBlK1iylxOuCXLKKBp/view?usp=sharing" target="_blank">🔗</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
